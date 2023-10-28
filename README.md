@@ -1,5 +1,5 @@
-# JS笔记
+# 项目笔记
 
-记录各种JS碎片知识点
+一些值得记录的项目
 
-[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://luoway.github.io/js-notebook/)
+[![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://luoway.github.io/project-notebook/)
