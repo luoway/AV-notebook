@@ -1,5 +1,3 @@
-# Node.js路线图
+# 项目笔记
 
-基于[roadmap.sh/nodejs](https://roadmap.sh/nodejs)开发的issues page
-
-记录个人积累
+一些值得记录的项目
