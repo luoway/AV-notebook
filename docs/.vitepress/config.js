@@ -6,8 +6,8 @@ import sidebar from './sidebar'
 console.log('sidebar: ', sidebar)
 
 export default withPwa(defineConfig({
-    title: 'JS笔记',
-    description: 'JS笔记，记录各种JS碎片知识点',
+    title: '项目笔记',
+    description: '项目笔记，一些值得记录的项目',
     lang: 'zh-CN',
     themeConfig: {
         socialLinks: [
@@ -47,10 +47,10 @@ export default withPwa(defineConfig({
             'apple-touch-icon.jpeg',
         ],
         manifest: {
-            id: 'js-notebook',
-            name: 'JS笔记',
-            short_name: 'JS笔记',
-            description: 'JS笔记，记录各种JS碎片知识点',
+            id: 'project-notebook',
+            name: '项目笔记',
+            short_name: '项目笔记',
+            description: '项目笔记，一些值得记录的项目',
             icons: [
                 {
                     src: './512.png',
